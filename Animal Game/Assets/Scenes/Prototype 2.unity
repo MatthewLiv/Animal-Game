@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.44657975, g: 0.4964143, b: 0.57481766, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657922, g: 0.4964134, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -755,6 +755,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8917047957722582427, guid: 52093ade352587e4db4ee7ddea4d542c, type: 3}
+      propertyPath: m_Size.z
+      value: 37.609734
+      objectReference: {fileID: 0}
+    - target: {fileID: 8917047957722582427, guid: 52093ade352587e4db4ee7ddea4d542c, type: 3}
+      propertyPath: m_Center.x
+      value: 0.27815235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8917047957722582427, guid: 52093ade352587e4db4ee7ddea4d542c, type: 3}
+      propertyPath: m_Center.z
+      value: -6.9722915
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 52093ade352587e4db4ee7ddea4d542c, type: 3}
 --- !u!1001 &2373453952296133354
@@ -764,6 +776,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1372005968741354576, guid: 1fdff8f7daed09c41b23e8be293c4413, type: 3}
+      propertyPath: m_Size.y
+      value: 0.941792
+      objectReference: {fileID: 0}
+    - target: {fileID: 1372005968741354576, guid: 1fdff8f7daed09c41b23e8be293c4413, type: 3}
+      propertyPath: m_Size.z
+      value: 0.22430237
+      objectReference: {fileID: 0}
+    - target: {fileID: 1372005968741354576, guid: 1fdff8f7daed09c41b23e8be293c4413, type: 3}
+      propertyPath: m_Center.y
+      value: 0.42070383
+      objectReference: {fileID: 0}
+    - target: {fileID: 1372005968741354576, guid: 1fdff8f7daed09c41b23e8be293c4413, type: 3}
+      propertyPath: m_Center.z
+      value: -0.016659476
+      objectReference: {fileID: 0}
     - target: {fileID: 2373453950700122421, guid: 1fdff8f7daed09c41b23e8be293c4413, type: 3}
       propertyPath: m_Name
       value: Dog
@@ -821,6 +849,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3393243264550132116, guid: b11ea31670684bc48b151a327da22545, type: 3}
+      propertyPath: m_Size.x
+      value: 0.23257059
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393243264550132116, guid: b11ea31670684bc48b151a327da22545, type: 3}
+      propertyPath: m_Size.z
+      value: 0.27778617
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393243264550132116, guid: b11ea31670684bc48b151a327da22545, type: 3}
+      propertyPath: m_Center.z
+      value: -0.025353389
+      objectReference: {fileID: 0}
     - target: {fileID: 8738028943035843553, guid: b11ea31670684bc48b151a327da22545, type: 3}
       propertyPath: m_RootOrder
       value: 5
